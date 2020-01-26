@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/dkarkeraSkyBlueVentures/Aakash/_apis/build/status/dhananjay-karkera-spider.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/dkarkeraSkyBlueVentures/Aakash/_build/latest?definitionId=1&branchName=master)
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=dhananjay-karkera-spider_mslearn-tailspin-spacegame-web)](https://sonarcloud.io/dashboard?id=dhananjay-karkera-spider_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
